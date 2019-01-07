@@ -3,7 +3,7 @@ class Actor < ActiveRecord::Base
   
   
   
-  
+  def 
  
   def change 
     create_table :actors do |t|
