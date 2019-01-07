@@ -1,0 +1,3 @@
+
+
+class CreateActors < ActiveRecord::Migrations[]
